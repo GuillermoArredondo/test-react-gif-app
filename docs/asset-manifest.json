@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "./test-react-gif-app/static/css/main.3420fee3.css",
-    "main.js": "./test-react-gif-app/static/js/main.36c1d05a.js",
-    "static/js/787.4d4c3f85.chunk.js": "./test-react-gif-app/static/js/787.4d4c3f85.chunk.js",
-    "index.html": "./test-react-gif-app/index.html",
-    "main.3420fee3.css.map": "./test-react-gif-app/static/css/main.3420fee3.css.map",
-    "main.36c1d05a.js.map": "./test-react-gif-app/static/js/main.36c1d05a.js.map",
-    "787.4d4c3f85.chunk.js.map": "./test-react-gif-app/static/js/787.4d4c3f85.chunk.js.map"
+    "main.css": "/test-react-gif-app/static/css/main.3420fee3.css",
+    "main.js": "/test-react-gif-app/static/js/main.36c1d05a.js",
+    "static/js/787.4d4c3f85.chunk.js": "/test-react-gif-app/static/js/787.4d4c3f85.chunk.js",
+    "index.html": "/test-react-gif-app/index.html",
+    "main.3420fee3.css.map": "/test-react-gif-app/static/css/main.3420fee3.css.map",
+    "main.36c1d05a.js.map": "/test-react-gif-app/static/js/main.36c1d05a.js.map",
+    "787.4d4c3f85.chunk.js.map": "/test-react-gif-app/static/js/787.4d4c3f85.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3420fee3.css",
